@@ -1,12 +1,19 @@
-h1 {
-  color: khaki;
+* {
+  background-color: #eb79b2;
+  text-align: center;
+}
+
+h1,
+p {
+  color: white;
 }
 
 img {
-   border: 2px solid red;
-  margin: 10px;
+  margin: 0 auto;
+  width: 50%;
 }
 
-p {
-  color: blue;
+footer {
+  text-align: center;
+  color: white;
 }
